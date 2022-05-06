@@ -1,2 +1,2 @@
-# jogo-do-dinossauro
+# Jogo do Dinossauro
 Desafio de Projeto do Jogo do Dinossauro
